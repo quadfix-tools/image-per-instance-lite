@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "image_per_instance_lite"
+version = "0.1.7"
+name = "Image Per Instance Lite - Different Texture on Every Object"
+tagline = "Different image on every object, one shared material"
+maintainer = "QuadFix Tools <support@dynamicflower.pt>"
+type = "add-on"
+website = "https://github.com/quadfix-tools/image-per-instance-lite"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2026 QuadFix Tools"]
+tags = ["Material", "Object"]
