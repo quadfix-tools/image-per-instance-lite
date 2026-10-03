@@ -3,6 +3,8 @@
 **One shared material, a different image on every object.** Pick a folder of images, press two buttons, done.
 No hand-built node setup, no 20 duplicated materials.
 
+> **Get the full version:** [Image Per Instance on Gumroad](https://quadfix.gumroad.com/l/image-per-instance) ($8) removes the 20 image limit and adds **Geometry Nodes instances** (Instance on Points, Array modifier) and **Shuffle**. Lite stays free and complete for what it lists here.
+
 ![Before and after: the same image on every frame vs a different image on each frame](docs/before_after.jpg)
 
 *Same scene, same single material. Left: one image everywhere. Right: each frame has its own picture.*
